@@ -2,7 +2,7 @@ import socket
 import subprocess
 import os
 
-# Ruben - Enkaoua GL4DI4T0R
+# Ruben Enkaoua - GL4DI4T0R
 # From the AD PT project https://github.com/rubenformation/Active-Directory-PT
 # Inspired from the Python for pentest course (Hussam Khrais)
 
