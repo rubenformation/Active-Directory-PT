@@ -1,7 +1,7 @@
 # AD penetration Testing Project
 #
 #### By Ruben Enkaoua - GL4Di4T0R
-#### Based on the TCM PEH course (Heath Adam)
+#### Based on the TCM PEH course (Heath Adams)
 #
 #
 ## Index
